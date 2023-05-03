@@ -52,7 +52,7 @@ button:active{
     background-color: rgb(151, 150, 150);
 }
 
-.discription{
+.description{
     text-transform: capitalize;
     margin-left: 4px;
 }
